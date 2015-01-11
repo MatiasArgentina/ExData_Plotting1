@@ -2,7 +2,7 @@
 
 household_power_consumption <- 
   read.csv("C:/Z.Coursera/Explanatory Data Analysis/Semana 1/Course Project/Project 1/household_power_consumption.txt", 
-  sep=";", na.strings="?")
+           sep=";", na.strings="?")
 
 #Subset the file
 
